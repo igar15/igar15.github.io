@@ -48,7 +48,7 @@ a[href^="http://habrahabr.ru"] {
     background: url(../img/habrahabr.png) no-repeat center left;
 }
 
-a[href^="https://igar15.ru"] {
+a[href^="https://www.igar15.ru"] {
     padding-left: 20px !important;
     background: url(../img/igar15.png) no-repeat center left;
 }
