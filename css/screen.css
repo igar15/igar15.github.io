@@ -43,6 +43,11 @@
 
 li{ margin-bottom: 6px}
 
+a[href^="https://t.me"] {
+    padding-left: 20px !important;
+    background: url(../img/telegram.png) no-repeat center left;
+}
+
 a[href^="http://habrahabr.ru"] {
     padding-left: 20px !important;
     background: url(../img/habrahabr.png) no-repeat center left;
